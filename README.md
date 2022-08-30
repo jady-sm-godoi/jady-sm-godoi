@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @jady-sm-godoi, Jady Godoi for friends
-- 👀 I’m interested in front-End(JS, HTML, CSS, etc) and Python in Django
-- 🌱 I’m currently learning Flutter
+- Nurse and teacher by training, developer by passion. I browse the front-end, with Javascript, html, some css and also flutter, to be a little mobile.
+- 
 - 📫 How to reach me: @jadygodoi, jady.s.m@gmail.com and in my site soon.
 
 <!---
