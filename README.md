@@ -13,11 +13,12 @@ I browse 🧭 on the front end, with Javascript, html and css. And also Flutter 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />    
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="right" alt="Jady-gif" src="https://discord.com/channels/@me/729417803207278642/1028141956271976468" />
+  <br>
+  <img align="right" height="150" width="150" alt="Jady-gif" src="https://user-images.githubusercontent.com/59850893/194685217-f6f65b2f-5c6e-4889-a12f-4e93b5378aac.gif"/>
   
                       
             
-</div>
+
 <br>
 <div>
 <a href="mailto:jady.s.m@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
