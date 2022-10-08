@@ -1,8 +1,8 @@
 <h1>Hi! I am Jady Godoi!</h1>
 
-Nurse and teacher by training 🧑‍⚕️ 🎓, developer by passion 🧑‍💻 🫶. 
+I'm a nurse and teacher by training 🧑‍⚕️ 🎓, developer by passion 🧑‍💻 🫶. 
 
-I browse 🧭 the front-end, with Javascript, html, some css and also flutter 📲, to be a little mobile.
+I browse 🧭 on the front end, with Javascript, html and css. And also Flutter 📲 to be a bit mobile.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jady-sm-godoi&show_icons=true&theme=dracula)](https://github.com/jady-sm-godoi/github-readme-stats)
 
