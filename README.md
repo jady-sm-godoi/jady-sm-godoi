@@ -13,6 +13,8 @@ I browse 🧭 on the front end, with Javascript, html and css. And also Flutter 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />    
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img align="right" alt="Jady-gif" src="https://discord.com/channels/@me/729417803207278642/1028141956271976468" />
+  
                       
             
 </div>
