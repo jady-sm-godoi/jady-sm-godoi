@@ -30,11 +30,3 @@ I browse 🧭 on the front end, with Javascript, html and css. And also Flutter 
 
 </div>
 <br>
-<table width="100%"> 
-  <tr>
-    <td width="50%">
-        
-  &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/22r5awnlnaqr3ij5mhferet3y)
-  
-  </tr>
-</table>
