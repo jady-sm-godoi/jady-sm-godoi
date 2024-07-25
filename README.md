@@ -29,3 +29,12 @@ I browse 🧭 on the front end, with Javascript, html and css. And also Flutter 
 <a href="https://www.instagram.com/jadygodoi/" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 </div>
+<br>
+<table width="100%"> 
+  <tr>
+    <td width="50%">
+        
+  &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/22r5awnlnaqr3ij5mhferet3y)
+  
+  </tr>
+</table>
