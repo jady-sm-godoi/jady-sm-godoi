@@ -70,10 +70,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jady-sm-godoi&show_icons=true&theme=tokyonight&count_private=true"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jady-sm-godoi&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=jady-sm-godoi&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
